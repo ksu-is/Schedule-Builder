@@ -14,9 +14,11 @@
 > - https://github.com/ksu-is/Calendar-GUI/blob/main/calgui
 - [x] Add description of project in README.md file
 - [x] Create projectroadmap.md file
-- [ ] Go through repositories found and make notes of what you want to keep/leave out from each one
-- [ ] Create master code file for scheduler with the kept repositories
+- [x] Go through repositories found and make notes of what you want to keep/leave out from each one
+- [x] Decide on the one code youre basing your code on
+> - https://github.com/oist/course-scheduler
 - [ ] Troubleshoot and ask questions
+- [ ] Decide what about the code you want to change
 - [ ] Commit code changes as needed
 - [ ] Finalize code
 - [ ] Begin working on Powerpoint
