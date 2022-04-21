@@ -17,6 +17,8 @@
 - [x] Go through repositories found and make notes of what you want to keep/leave out from each one
 - [x] Decide on the one code youre basing your code on
 > - https://github.com/oist/course-scheduler
+- [ ] Figure out how to get the code to run
+> - [ ] Learn this code and how it functions
 - [ ] Troubleshoot and ask questions
 - [ ] Decide what about the code you want to change
 - [ ] Commit code changes as needed
