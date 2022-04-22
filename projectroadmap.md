@@ -19,7 +19,9 @@
 > - https://github.com/oist/course-scheduler
 - [ ] Figure out how to get the code to run
 > - [ ] Learn this code and how it functions
-> - [ ] Sit with professor and get understanding
+> - [x] Sit with professor and get understanding
+> - [ ] Wach database tutorial video
+> - [ ] Add database to code
 - [ ] Troubleshoot and ask more questions
 - [ ] Decide what about the code you want to change if anything
 - [ ] Commit code changes as needed
