@@ -20,10 +20,10 @@
 - [ ] Figure out how to get the code to run
 > - [ ] Learn this code and how it functions
 > - [x] Sit with professor and get understanding
-> - [ ] Wach database tutorial video
+> - [x] Wach database tutorial video
 > - [ ] Add database to code
 - [ ] Troubleshoot and ask more questions
-- [ ] Decide what about the code you want to change if anything
+- [x] Decide what about the code you want to change if anything
 - [ ] Commit code changes as needed
 - [ ] Finalize code
-- [ ] Begin working on Powerpoint
+- [x] Begin working on Powerpoint
