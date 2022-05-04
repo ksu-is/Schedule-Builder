@@ -18,12 +18,12 @@
 - [x] Decide on the one code youre basing your code on
 > - https://github.com/oist/course-scheduler
 - [ ] Figure out how to get the code to run
-> - [ ] Learn this code and how it functions
+> - [X] Learn this code and how it functions
 > - [x] Sit with professor and get understanding
 > - [x] Wach database tutorial video
 > - [ ] Add database to code
-- [ ] Troubleshoot and ask more questions
+- [X] Troubleshoot and ask more questions
 - [x] Decide what about the code you want to change if anything
-- [ ] Commit code changes as needed
+- [X] Commit code changes as needed
 - [ ] Finalize code
 - [x] Begin working on Powerpoint
